@@ -1,0 +1,12 @@
+C:\Users\manue\Desktop\lab1\Ej4\bin\Debug\netcoreapp3.1\Ej4.exe
+C:\Users\manue\Desktop\lab1\Ej4\bin\Debug\netcoreapp3.1\Ej4.deps.json
+C:\Users\manue\Desktop\lab1\Ej4\bin\Debug\netcoreapp3.1\Ej4.runtimeconfig.json
+C:\Users\manue\Desktop\lab1\Ej4\bin\Debug\netcoreapp3.1\Ej4.runtimeconfig.dev.json
+C:\Users\manue\Desktop\lab1\Ej4\bin\Debug\netcoreapp3.1\Ej4.dll
+C:\Users\manue\Desktop\lab1\Ej4\bin\Debug\netcoreapp3.1\Ej4.pdb
+C:\Users\manue\Desktop\lab1\Ej4\obj\Debug\netcoreapp3.1\Ej4.AssemblyInfoInputs.cache
+C:\Users\manue\Desktop\lab1\Ej4\obj\Debug\netcoreapp3.1\Ej4.AssemblyInfo.cs
+C:\Users\manue\Desktop\lab1\Ej4\obj\Debug\netcoreapp3.1\Ej4.csproj.CoreCompileInputs.cache
+C:\Users\manue\Desktop\lab1\Ej4\obj\Debug\netcoreapp3.1\Ej4.dll
+C:\Users\manue\Desktop\lab1\Ej4\obj\Debug\netcoreapp3.1\Ej4.pdb
+C:\Users\manue\Desktop\lab1\Ej4\obj\Debug\netcoreapp3.1\Ej4.genruntimeconfig.cache
